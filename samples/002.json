@@ -1,0 +1,6 @@
+{
+  "id": "sample-002",
+  "text": "Synthetic test message 002",
+  "label": "negative",
+  "synthetic": true
+}
